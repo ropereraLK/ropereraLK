@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Perera</h1>
+<h3 align="center">B. Sc. in Mgt. and Information Technology (Kelaniya)</h3>
+
 
 <!--
 **ropereraLK/ropereraLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

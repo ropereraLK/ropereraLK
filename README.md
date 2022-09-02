@@ -2,6 +2,21 @@
 <h3 align="center">Software Developer <br><br> B. Sc. in Mgt. and Information Technology (Kelaniya)</h3>
 
 
+---
+<p align=center>   
+  <a href="https://github-readme-stats.vercel.app/api?username=ropereraLK&count_private=true&include_all_commits=true&&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ropereraLK&count_private=true&include_all_commits=true&&layout=compact&theme=radical"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ropereraLK&&count_private=true&include_all_commits=true&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ropereraLK&&count_private=true&include_all_commits=true&layout=compact&theme=radical"/></a>
+</p>
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ropereraLK.ropereraLK" alt="Visitors">                     
+</p>
+
+---
+
+
 <!--
 **ropereraLK/ropereraLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

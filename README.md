@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohan Perera</h1>
-<h3 align="center">Software Developer <br><br> B. Sc. in Mgt. and Information Technology (Kelaniya)</h3>
+<h3 align="center">Software Developer <br>
+<!--   <br> B. Sc. in Mgt. and Information Technology (Kelaniya)</h3> -->
 
 
 ---
-<p align=center>   
+<!-- <p align=center>   
   <a href="https://github-readme-stats.vercel.app/api?username=ropereraLK&count_private=true&include_all_commits=true&&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ropereraLK&count_private=true&include_all_commits=true&&layout=compact&theme=radical"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ropereraLK&&count_private=true&include_all_commits=true&layout=compact&theme=radical">
@@ -12,7 +13,7 @@
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ropereraLK.ropereraLK" alt="Visitors">                     
-</p>
+</p> -->
 
 ---
 

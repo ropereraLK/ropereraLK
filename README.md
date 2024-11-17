@@ -15,7 +15,9 @@
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ropereraLK.ropereraLK" alt="Visitors">                     
 </p> -->
 
- 
+#### Skills
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,aws,maven,mongodb,idea,mysql,kafka,git,github,docker,grafana,gitlab&theme=light)
 
 
 <!--

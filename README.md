@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Perera</h1>
+<h1 align="center">Hi 👋, I'm Ro Perera</h1>
 <h3 align="center">Software Developer <br>
 <!--   <br> B. Sc. in Mgt. and Information Technology (Kelaniya)</h3> -->
 

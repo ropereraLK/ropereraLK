@@ -1,11 +1,11 @@
 # 👋 Rohan Perera 
 **Full Stack Software Developer** • He / Him  
 
-I am a **Full Stack Software Developer** with a strong engineering focus on **Java (8+)**, **AWS cloud platforms**, and **AI-driven systems**, building scalable, secure, and high-availability solutions for enterprise and industrial environments — with deep exposure to the **Aviation Maintenance domain**.
+Senior Software Engineer with 5.5+ years of experience building scalable backend systems for enterprise and aviation platforms. Expertise in Java, Spring Boot, microservices, distributed systems, and AWS Cloud. 
 
-With over **5+ years of professional Java experience**, I design and deliver **cloud-native microservices**, resilient backend architectures, and well-structured **REST APIs** using modern engineering practices. My work emphasizes performance, reliability, and maintainability in systems that operate in **safety-critical and data-intensive domains**.
+Proven ability to modernize legacy systems into microservices, implement event-driven architectures, and deliver production-grade solutions, including LLM-powered features. 
 
-I actively work with **Artificial Intelligence and Industrial AI**, integrating intelligent models into real-world operational systems to enhance decision-making, automation, and predictive capabilities. I am **AWS Certified** and experienced in architecting, deploying, and operating distributed systems on the cloud.
+Strong in system design and high-performance backend engineering.
 
 I value clean architecture, pragmatic design, Agile delivery, and continuous learning, and I enjoy solving complex problems at the intersection of **software engineering, cloud computing, AI, and aviation systems**.
 

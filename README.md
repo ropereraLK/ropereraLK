@@ -1,5 +1,5 @@
 # 👋 Rohan Perera 
-**Full Stack Software Developer** • He / Him  
+**Senior Software Developer** • He / Him  
 
 Senior Software Engineer with 5.5+ years of experience building scalable backend systems for enterprise and aviation platforms. Expertise in Java, Spring Boot, microservices, distributed systems, and AWS Cloud. 
 
